@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "01GIgYfeX1RfzFA/aOGl0l9aZ1pXPpkmbolc+67giRQ7nyJ3DowGt7b+PR2eFva/h19Ru0RyfMBYHKS8HJzRtg==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/Palimdrome/Palimdrome.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/Palimdrome/bin/Debug/net7.0/Palimdrome
+/home/ion/Documents/Projects/C#/Palimdrome/bin/Debug/net7.0/Palimdrome.deps.json
+/home/ion/Documents/Projects/C#/Palimdrome/bin/Debug/net7.0/Palimdrome.runtimeconfig.json
+/home/ion/Documents/Projects/C#/Palimdrome/bin/Debug/net7.0/Palimdrome.dll
+/home/ion/Documents/Projects/C#/Palimdrome/bin/Debug/net7.0/Palimdrome.pdb
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.dll
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/refint/Palimdrome.dll
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.pdb
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/Palimdrome.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/Palimdrome/obj/Debug/net7.0/ref/Palimdrome.dll
