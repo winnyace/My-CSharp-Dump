@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPGXDUMV9XcfDI3umYcWLlJHUKx2BV4wDBiqU+Wa7xmMRMSRd5zNQK84Yk+aXfwAAHra6P+sLTyjp0xOuWfsJQ==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/If-Else/If-Else.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
