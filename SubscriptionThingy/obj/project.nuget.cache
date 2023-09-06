@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txg8shiiQD1j0QdBhiaWO4xXLsmQzKUaOiRNYNqwyWUhPJu6B0ddTi5tqrjSQUnx71XDI8/qynfTIk4d1EpTQg==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/SubscriptionThingy/SubscriptionThingy.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

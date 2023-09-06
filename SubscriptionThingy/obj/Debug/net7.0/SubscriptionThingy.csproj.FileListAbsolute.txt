@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/SubscriptionThingy/bin/Debug/net7.0/SubscriptionThingy
+/home/ion/Documents/Projects/C#/SubscriptionThingy/bin/Debug/net7.0/SubscriptionThingy.deps.json
+/home/ion/Documents/Projects/C#/SubscriptionThingy/bin/Debug/net7.0/SubscriptionThingy.runtimeconfig.json
+/home/ion/Documents/Projects/C#/SubscriptionThingy/bin/Debug/net7.0/SubscriptionThingy.dll
+/home/ion/Documents/Projects/C#/SubscriptionThingy/bin/Debug/net7.0/SubscriptionThingy.pdb
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.dll
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/refint/SubscriptionThingy.dll
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.pdb
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/SubscriptionThingy.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/SubscriptionThingy/obj/Debug/net7.0/ref/SubscriptionThingy.dll
