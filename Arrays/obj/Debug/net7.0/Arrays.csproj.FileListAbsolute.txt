@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/Arrays/bin/Debug/net7.0/Arrays
+/home/ion/Documents/Projects/C#/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/home/ion/Documents/Projects/C#/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/home/ion/Documents/Projects/C#/Arrays/bin/Debug/net7.0/Arrays.dll
+/home/ion/Documents/Projects/C#/Arrays/bin/Debug/net7.0/Arrays.pdb
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.dll
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.pdb
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/Arrays/obj/Debug/net7.0/ref/Arrays.dll

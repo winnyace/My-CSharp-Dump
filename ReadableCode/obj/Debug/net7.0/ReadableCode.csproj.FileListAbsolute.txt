@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/ReadableCode/bin/Debug/net7.0/ReadableCode
+/home/ion/Documents/Projects/C#/ReadableCode/bin/Debug/net7.0/ReadableCode.deps.json
+/home/ion/Documents/Projects/C#/ReadableCode/bin/Debug/net7.0/ReadableCode.runtimeconfig.json
+/home/ion/Documents/Projects/C#/ReadableCode/bin/Debug/net7.0/ReadableCode.dll
+/home/ion/Documents/Projects/C#/ReadableCode/bin/Debug/net7.0/ReadableCode.pdb
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.dll
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/refint/ReadableCode.dll
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.pdb
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ReadableCode.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/ReadableCode/obj/Debug/net7.0/ref/ReadableCode.dll

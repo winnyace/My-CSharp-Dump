@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6PBwwIlh4hq+5qgflSOZWUy7QGRMPyWPqt7Rzo8xJb8cGI9bHLHVpxu7dUQaWE15YrdbvmqxVYnXoVxsIL5VVQ==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
