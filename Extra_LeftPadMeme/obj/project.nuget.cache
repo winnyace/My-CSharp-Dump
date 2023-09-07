@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMmIV9LPVpVmu1pjKmR1PcJimGMCk/tBhNpQyX/rJ2RYsnPNBj9aQ90bOIZBRpVVjrw1qWl1Yk/ivBlMKiMong==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/Extra_LeftPadMeme.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/bin/Debug/net7.0/Extra_LeftPadMeme
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/bin/Debug/net7.0/Extra_LeftPadMeme.deps.json
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/bin/Debug/net7.0/Extra_LeftPadMeme.runtimeconfig.json
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/bin/Debug/net7.0/Extra_LeftPadMeme.dll
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/bin/Debug/net7.0/Extra_LeftPadMeme.pdb
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.dll
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/refint/Extra_LeftPadMeme.dll
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.pdb
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/Extra_LeftPadMeme.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/Extra_LeftPadMeme/obj/Debug/net7.0/ref/Extra_LeftPadMeme.dll
