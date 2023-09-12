@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "er8Urmy6K/MweQSBvUUlkwPQTr7XbWu+SHyUN41TDk7RqAvvVA0bJ81wrbbZC7ZWIQiy5xOB8Z8xVf4CguvhAQ==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/Permissions/Permissions.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

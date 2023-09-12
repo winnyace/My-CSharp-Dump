@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSVeBl/4rXDnewOU320R2jdNOpE+SQqhZdlu+iBtHH6N847eIhcQS25hnbFYAmABzxOq/1b311hC+uw+qGiMIQ==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/CoinFlip/CoinFlip.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

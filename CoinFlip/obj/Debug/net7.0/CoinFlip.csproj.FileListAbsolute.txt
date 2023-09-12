@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/CoinFlip/bin/Debug/net7.0/CoinFlip
+/home/ion/Documents/Projects/C#/CoinFlip/bin/Debug/net7.0/CoinFlip.deps.json
+/home/ion/Documents/Projects/C#/CoinFlip/bin/Debug/net7.0/CoinFlip.runtimeconfig.json
+/home/ion/Documents/Projects/C#/CoinFlip/bin/Debug/net7.0/CoinFlip.dll
+/home/ion/Documents/Projects/C#/CoinFlip/bin/Debug/net7.0/CoinFlip.pdb
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.dll
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/refint/CoinFlip.dll
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.pdb
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/CoinFlip.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/CoinFlip/obj/Debug/net7.0/ref/CoinFlip.dll

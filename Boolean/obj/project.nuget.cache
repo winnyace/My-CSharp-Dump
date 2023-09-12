@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/eY2DNRJUSxyz9/2YRhXoczxVmc+l86Ca8v7HYDaW4+oqfnSWl6Pflr+TFUm/9sO1A+K0WOtTcbIhmH8tu2rA==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/Boolean/Boolean.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

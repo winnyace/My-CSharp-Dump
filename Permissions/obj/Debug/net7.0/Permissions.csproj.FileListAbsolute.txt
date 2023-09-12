@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/Permissions/bin/Debug/net7.0/Permissions
+/home/ion/Documents/Projects/C#/Permissions/bin/Debug/net7.0/Permissions.deps.json
+/home/ion/Documents/Projects/C#/Permissions/bin/Debug/net7.0/Permissions.runtimeconfig.json
+/home/ion/Documents/Projects/C#/Permissions/bin/Debug/net7.0/Permissions.dll
+/home/ion/Documents/Projects/C#/Permissions/bin/Debug/net7.0/Permissions.pdb
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.dll
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/refint/Permissions.dll
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.pdb
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/Permissions.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/Permissions/obj/Debug/net7.0/ref/Permissions.dll
