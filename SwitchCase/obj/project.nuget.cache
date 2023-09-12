@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYP247jkSkoT1OBsvrnoILZSWkszP2gT5KibZoM5qQAwl/VAd0Kz6BdQwnmNeyqfQA69Qe7ikEqRm7Z6B+TJsw==",
+  "success": true,
+  "projectFilePath": "/home/ion/Documents/Projects/C#/SwitchCase/SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "/home/ion/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

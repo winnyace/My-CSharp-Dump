@@ -1,0 +1,15 @@
+/home/ion/Documents/Projects/C#/SwitchCase/bin/Debug/net7.0/SwitchCase
+/home/ion/Documents/Projects/C#/SwitchCase/bin/Debug/net7.0/SwitchCase.deps.json
+/home/ion/Documents/Projects/C#/SwitchCase/bin/Debug/net7.0/SwitchCase.runtimeconfig.json
+/home/ion/Documents/Projects/C#/SwitchCase/bin/Debug/net7.0/SwitchCase.dll
+/home/ion/Documents/Projects/C#/SwitchCase/bin/Debug/net7.0/SwitchCase.pdb
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.AssemblyReference.cache
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfoInputs.cache
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.AssemblyInfo.cs
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.dll
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/refint/SwitchCase.dll
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.pdb
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/SwitchCase.genruntimeconfig.cache
+/home/ion/Documents/Projects/C#/SwitchCase/obj/Debug/net7.0/ref/SwitchCase.dll
